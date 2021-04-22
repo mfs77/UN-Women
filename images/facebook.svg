@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 75 75" style="enable-background:new 0 0 75 75;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#11A0DB;}
+</style>
+<g>
+	<g id="Ellipse_253" transform="translate(172 30)">
+		<g>
+			<circle class="st0" cx="-134.5" cy="7.5" r="36.7"/>
+		</g>
+		<g>
+			<path class="st1" d="M-134.5,44.7c-20.5,0-37.2-16.7-37.2-37.2s16.7-37.2,37.2-37.2S-97.3-13-97.3,7.5S-114,44.7-134.5,44.7z
+				 M-134.5-27.8c-19.4,0-35.3,15.8-35.3,35.3s15.8,35.3,35.3,35.3s35.3-15.8,35.3-35.3S-115.1-27.8-134.5-27.8z"/>
+		</g>
+	</g>
+	<path id="facebook-f" class="st1" d="M47.3,40.3l1.1-7.4h-7.1V28c0-2,1-4,4.2-4h3.2v-6.3c-1.9-0.3-3.8-0.5-5.8-0.5
+		c-5.9,0-9.7,3.6-9.7,10v5.7h-6.5v7.4h6.5v18h8v-18H47.3z"/>
+</g>
+</svg>
